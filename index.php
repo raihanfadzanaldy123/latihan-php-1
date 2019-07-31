@@ -1,3 +1,5 @@
 <?php
-echo "Hello github"; 
+echo "Hello angsam"; 
+// Penambahan hai github
+echo "Hello Github"; 
 ?>
